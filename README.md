@@ -6,8 +6,9 @@
 - 🎓 MSc at Moscow Aviation Institute
 
 # Tech stack:
-- Python, Spark, TypeScript, JavaScript (React, Next.js), C/C++, Java, Rust, Go
-- Docker, Kubernetes, AWS, Azure, Github Actions, CircleCI
+- Golang, C#, TypeScript, JavaScript (+TypeScript, Angular)
+- Docker, Kubernetes, Azure, Github Actions
+- Postgres, Redis, ElasticSearch
 
 # Get in touch:
 - 🌐 Visit my [website](https://musinit.info)!
