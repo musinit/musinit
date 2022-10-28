@@ -11,12 +11,12 @@
 - Postgres, Redis, ElasticSearch
 
 # Get in touch:
-- 🌐 Visit my [website](https://musinit.info)!
-- 📫 How to reach me: 
+🌐 Visit my [website](https://musinit.info)!
+📫 How to reach me: 
  - [Twitter](https://twitter.com/musinit1)
  - [ProductHunt](https://www.producthunt.com/@oleg_musin) 
 
-<a href="https://github.com/921kiyo"> 
+<a href="https://github.com/musinit"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=musinit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musinit&hide_border=true&langs_count=3&theme=tokyonight&hide=jupyter%20notebook,tex,css,php,makefile,html,matlab,lasso"/>
 </a>
